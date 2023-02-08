@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Teste",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 150,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "150",
+          "description": "Faz isso",
+          "id": "83ef3829-2d23-4bca-aaea-9c89503a91eb"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
